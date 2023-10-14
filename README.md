@@ -49,10 +49,6 @@
 </div>
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&type=vertical" />
-</div>
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=posidron&&style=for-the-badge&color=blueviolet" />
 </div>
 
