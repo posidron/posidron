@@ -2,8 +2,6 @@
 
 💻 I'm currently working at Microsoft on Edge for security and operations.
 
-🤔 I recently moved to the US and have not won the Powerball yet.  
-
 🛠️ Indie hacker of all sorts of things in my spare time.  
   
 <br/>  
