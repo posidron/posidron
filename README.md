@@ -1,6 +1,6 @@
 # Christoph Diehl
 
-**Senior Software Engineer @ Microsoft Edge** | Security Researcher | Builder
+**Principal Software Engineer @ Microsoft Edge** | Security Researcher | Builder
 
 I work on browser security and build tools in my spare time. I'm passionate about creating intuitive experiences, making existing solutions better and easier to use, and enjoy working on innovative ideas.
 
