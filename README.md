@@ -20,8 +20,6 @@ I work on browser security and build tools in my spare time. I'm passionate abou
 
 ## 📊 Metrics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=posidron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-<br /><br />
 <img src="https://komarev.com/ghpvc/?username=posidron&&style=for-the-badge&color=blueviolet" />
 </div>
 
